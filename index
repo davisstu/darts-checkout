@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Darts Checkout Table</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  .green { color: green; font-weight: bold; }
+  .blue { color: blue; }
+  .orange { color: orange; }
+  .red { color: red; font-weight: bold; }
+</style>
+</head>
+<body>
+
+<h1>Darts Checkout Table</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Score</th>
+      <th>1 Dart</th>
+      <th>2 Darts</th>
+      <th>3 Darts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>2</td><td></td><td></td><td>D2</td></tr>
+    <tr><td>3</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>4</td><td></td><td></td><td>D2</td></tr>
+    <tr><td>5</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>6</td><td></td><td></td><td>D3</td></tr>
+    <tr><td>7</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>8</td><td></td><td></td><td>D4</td></tr>
+    <tr><td>9</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>10</td><td></td><td></td><td>D5</td></tr>
+    <tr><td>11</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>12</td><td></td><td></td><td>D6</td></tr>
+    <tr><td>13</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>14</td><td></td><td></td><td>D7</td></tr>
+    <tr><td>15</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>16</td><td></td><td></td><td>D8</td></tr>
+    <tr><td>17</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>18</td><td></td><td></td><td>D9</td></tr>
+    <tr><td>19</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>20</td><td></td><td></td><td>D10</td></tr>
+    <tr><td>21</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>22</td><td></td><td></td><td>D11</td></tr>
+    <tr><td>23</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>24</td><td></td><td></td><td>D12</td></tr>
+    <tr><td>25</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>26</td><td></td><td></td><td>D13</td></tr>
+    <tr><td>27</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>28</td><td></td><td></td><td>D14</td></tr>
+    <tr><td>29</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>30</td><td></td><td></td><td>D15</td></tr>
+    <tr><td>31</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>32</td><td></td><td></td><td>D16</td></tr>
+    <tr><td>33</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>34</td><td></td><td></td><td>D17</td></tr>
+    <tr><td>35</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>36</td><td></td><td></td><td>D18</td></tr>
+    <tr><td>37</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>38</td><td></td><td></td><td>D19</td></tr>
+    <tr><td>39</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>40</td><td></td><td></td><td>D20</td></tr>
+    <tr><td>41</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>42</td><td></td><td></td><td>D21</td></tr>
+    <tr><td>43</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>44</td><td></td><td></td><td>D22</td></tr>
+    <tr><td>45</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>46</td><td></td><td></td><td>D23</td></tr>
+    <tr><td>47</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>48</td><td></td><td></td><td>D24</td></tr>
+    <tr><td>49</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>50</td><td></td><td></td><td>D25</td></tr>
+    <tr><td>51</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>52</td><td></td><td></td><td>D26</td></tr>
+    <tr><td>53</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>54</td><td></td><td></td><td>D27</td></tr>
+    <tr><td>55</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>56</td><td></td><td></td><td>D28</td></tr>
+    <tr><td>57</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>58</td><td></td><td></td><td>D29</td></tr>
+    <tr><td>59</td><td></td><td></td><td>T1</td></tr>
+    <tr><td>60</td><td></td><td></td><td>D30</td></tr>
+    <tr><td>61</td><td></td><td>S5-D18</td><td>T11-D14</td></tr>
+    <tr><td>62</td><td></td><td>S10-D16</td><td>T12-D13</td></tr>
+    <tr><td>63</td><td></td><td>S13-D10</td><td>T13-D12</td></tr>
+    <tr><td>64</td><td></td><td>S14-D10</td><td>T14-D10</td></tr>
+    <tr><td>65</td><td></td><td>S5-D20</td><td>S15-D10</td></tr>
+    <tr><td>66</td><td></td><td>S10-D18</td><td>T16-D9</td></tr>
+    <tr><td>67</td><td></td><td>S17-D10</td><td>T17-D8</td></tr>
+    <tr><td>68</td><td></td><td>S18-D10</td><td>T18-D7</td></tr>
+    <tr><td>69</td><td></td><td>S19-D10</td><td>T19-D6</td></tr>
+    <tr><td>70</td><td></td><td>S20-D10</td><td>T20-D5</td></tr>
+    <tr><td>71</td><td></td><td>S11-D20</td><td><span class="green">T13-D16</span></td></tr>
+    <tr><td>72</td><td></td><td>S12-D20</td><td><span class="green">S12</span></td></tr>
+    <tr><td>73</td><td></td><td>S13-D20</td><td><span class="red">X</span></td></tr>
+    <tr><td>74</td><td></td><td>S14-D20</td><td><span class="green">T14-D16</span></td></tr>
+    <tr><td>75</td><td></td><td>S15-D20</td><td><span class="green">S15</span></td></tr>
+    <tr><td>76</td><td></td><td>S16-D20</td><td><span class="green">T20-D8</span></td></tr>
+    <tr><td>77</td><td></td><td>S17-D20</td><td><span class="red">X</span></td></tr>
+    <tr><td>78</td><td></td><td>S18-D20</td><td>T18-D12</td></tr>
+    <tr><td>79</td><td></td><td>S19-D20</td><td><span class="green">T19-D11</span></td></tr>
+    <tr><td>80</td><td></td><td>S20-D20</td><td>T20-D10</td></tr>
+    <tr><td>81</td><td></td><td>S1-SB</td><td><span class="blue">T11-D24</span></td></tr>
+    <tr><td>82</td><td></td><td>S10-SB</td><td><span class="blue">T14-D20</span></td></tr>
+    <tr><td>83</td><td></td><td>S13-SB</td><td><span class="blue">T17-D16</span></td></tr>
+    <tr><td>84</td><td></td><td>S16-SB</td><td><span class="blue">T20-D12</span></td></tr>
+    <tr><td>85</td><td></td><td>S19-SB</td><td><span class="blue">T15-D20</span></td></tr>
+    <tr><td>86</td><td></td><td>S20-SB</td><td><span class="red">X</span></td></tr>
+    <tr><td>87</td><td></td><td>T17-D18</td><td><span class="red">X</span></td></tr>
+    <tr><td>88</td><td></td><td>T20-D14</td><td><span class="red">X</span></td></tr>
+    <tr><td>89</td><td></td><td>T19-D16</td><td><span class="red">X</span></td></tr>
+    <tr><td>90</td><td></td><td>DB-D20</td><td>T18-D18</td></tr>
+    <tr><td>91</td><td></td><td><span class="orange">S1-SB-D10</span></td><td><span class="blue">T17-D20</span></td></tr>
+    <tr><td>92</td><td></td><td><span class="orange">S4-SB-D10</span></td><td><span class="blue">T20-D16</span></td></tr>
+    <tr><td>93</td><td></td><td><span class="orange">S5-SB-D10</span></td><td><span class="blue">T19-D18</span></td></tr>
+    <tr><td>94</td><td></td><td><span class="orange">S6-SB-D10</span></td><td><span class="blue">T18-D20</span></td></tr>
+    <tr><td>95</td><td></td><td><span class="orange">S7-SB-D10</span></td><td><span class="blue">T19-D19</span></td></tr>
+    <tr><td>96</td><td></td><td><span class="orange">S8-SB-D10</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>97</td><td></td><td><span class="orange">S9-SB-D10</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>98</td><td></td><td><span class="orange">S10-SB-D10</span></td><td><span class="blue">T20-D19</span></td></tr>
+    <tr><td>99</td><td></td><td>T19-D21</td><td><span class="red">X</span></td></tr>
+    <tr><td>100</td><td></td><td>T20-D20</td><td><span class="blue">T20-S20-D20</span></td></tr>
+    <tr><td>101</td><td></td><td><span class="orange">T1-T20-D20</span></td><td><span class="blue">T17-DB</span></td></tr>
+    <tr><td>102</td><td></td><td><span class="orange">T2-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>103</td><td></td><td><span class="orange">T3-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>104</td><td></td><td><span class="orange">T4-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>105</td><td></td><td><span class="orange">T5-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>106</td><td></td><td><span class="orange">T6-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>107</td><td></td><td><span class="orange">T7-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>108</td><td></td><td><span class="orange">T8-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>109</td><td></td><td><span class="orange">T9-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>110</td><td></td><td><span class="orange">T10-T20-D20</span></td><td><span class="blue">T20-DB</span></td></tr>
+    <tr><td>111</td><td></td><td><span class="orange">T11-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>112</td><td></td><td><span class="orange">T12-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>113</td><td></td><td><span class="orange">T13-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>114</td><td></td><td><span class="orange">T14-T20-D20</span></td><td><span class="blue">T18-SB</span></td></tr>
+    <tr><td>115</td><td></td><td><span class="orange">T15-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>116</td><td></td><td><span class="orange">T16-T20-D20</span></td><td><span class="blue">T20-S16-D20</span></td></tr>
+    <tr><td>117</td><td></td><td><span class="orange">T17-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>118</td><td></td><td><span class="orange">T18-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>119</td><td></td><td><span class="orange">T19-T20-D20</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>120</td><td></td><td><span class="orange">T20-T20-D20</span></td><td><span class="blue">T20-S20-D20</span></td></tr>
+    <tr><td>121</td><td><span class="orange">T20-S1-SB</span></td><td><span class="blue">T20-S1-D20</span></td><td><span class="green">S1-SB</span></td></tr>
+    <tr><td>122</td><td><span class="orange">T20-S2-D20</span></td><td><span class="blue">T18-S16-D20</span></td><td><span class="green">S2-SB</span></td></tr>
+    <tr><td>123</td><td><span class="orange">T20-S3-D20</span></td><td><span class="blue">T17-S16-D20</span></td><td><span class="green">S3-SB</span></td></tr>
+    <tr><td>124</td><td><span class="orange">T20-S4-D20</span></td><td><span class="blue">T20-S12-D20</span></td><td><span class="green">S4-SB</span></td></tr>
+    <tr><td>125</td><td><span class="orange">T20-S5-D20</span></td><td><span class="orange">SB-100</span></td><td><span class="blue">T15-D20</span></td></tr>
+    <tr><td>126</td><td><span class="orange">T20-S6-D20</span></td><td><span class="blue">T19-S19-D20</span></td><td><span class="green">T18-SB</span></td></tr>
+    <tr><td>127</td><td><span class="orange">T20-S7-D20</span></td><td><span class="blue">T17-S20-D20</span></td><td><span class="green">S19</span></td></tr>
+    <tr><td>128</td><td><span class="orange">T20-S8-D20</span></td><td><span class="blue">T18-S18-D20</span></td><td><span class="green">S20</span></td></tr>
+    <tr><td>129</td><td><span class="orange">T20-S9-D20</span></td><td><span class="blue">T19-S12-D20</span></td><td><span class="green">S1-SB</span></td></tr>
+    <tr><td>130</td><td><span class="orange">T20-S10-D20</span></td><td><span class="blue">T20-S10-D20</span></td><td><span class="green">SB-104</span></td></tr>
+    <tr><td>131</td><td><span class="orange">T20-S11-D20</span></td><td><span class="blue">T19-S14-D20</span></td><td><span class="green">T19-SB</span></td></tr>
+    <tr><td>132</td><td><span class="orange">T20-S12-D20</span></td><td><span class="blue">DB-SB</span></td><td><span class="green">T20-D16</span></td></tr>
+    <tr><td>133</td><td><span class="orange">T20-S13-D20</span></td><td><span class="blue">T19-S16-D20</span></td><td><span class="green">T19-S16-DB</span></td></tr>
+    <tr><td>134</td><td><span class="orange">T20-S14-D20</span></td><td><span class="blue">T20-S14-DB</span></td><td><span class="green">T18-SB</span></td></tr>
+    <tr><td>135</td><td><span class="orange">T20-S15-D20</span></td><td><span class="blue">DB-S25</span></td><td><span class="green">T20-S15-DB</span></td></tr>
+    <tr><td>136</td><td><span class="orange">T20-S16-D20</span></td><td><span class="blue">T20-S16-DB</span></td><td><span class="green">T20-S16-D20</span></td></tr>
+    <tr><td>137</td><td><span class="orange">T20-S17-D20</span></td><td><span class="blue">T20-S17-DB</span></td><td><span class="green">T20-S17-D20</span></td></tr>
+    <tr><td>138</td><td><span class="orange">T20-S18-D20</span></td><td><span class="blue">T18-S18-DB</span></td><td><span class="green">T18-S18-D20</span></td></tr>
+    <tr><td>139</td><td><span class="orange">T20-S19-D20</span></td><td><span class="blue">T19-S16-D20</span></td><td><span class="green">T19-S16-DB</span></td></tr>
+    <tr><td>140</td><td><span class="orange">T20-S20-D20</span></td><td><span class="blue">T20-S20-DB</span></td><td><span class="green">T20-S20-D20</span></td></tr>
+    <tr><td>141</td><td><span class="orange">T20-T1-D18</span></td><td><span class="blue">T20-T1-DB</span></td><td><span class="green">T20-S17-D12</span></td></tr>
+    <tr><td>142</td><td><span class="orange">T20-T2-D18</span></td><td><span class="blue">T20-T2-DB</span></td><td><span class="green">T20-S18-D12</span></td></tr>
+    <tr><td>143</td><td><span class="orange">T20-T3-D18</span></td><td><span class="blue">T20-T3-DB</span></td><td><span class="green">T20-S19-D12</span></td></tr>
+    <tr><td>144</td><td><span class="orange">T20-T4-D18</span></td><td><span class="blue">T20-T4-DB</span></td><td><span class="green">T20-S20-D12</span></td></tr>
+    <tr><td>145</td><td><span class="orange">T20-T5-D18</span></td><td><span class="blue">T20-T5-DB</span></td><td><span class="green">T15-S20-D10</span></td></tr>
+    <tr><td>146</td><td><span class="orange">T20-T6-D18</span></td><td><span class="blue">T20-T6-DB</span></td><td><span class="green">T18-S16-D16</span></td></tr>
+    <tr><td>147</td><td><span class="orange">T20-T7-D18</span></td><td><span class="blue">T20-T7-DB</span></td><td><span class="green">T17-S16-D17</span></td></tr>
+    <tr><td>148</td><td><span class="orange">T20-T8-D18</span></td><td><span class="blue">T20-T8-DB</span></td><td><span class="green">T18-S14-D18</span></td></tr>
+    <tr><td>149</td><td><span class="orange">T20-T9-D18</span></td><td><span class="blue">T20-T9-DB</span></td><td><span class="green">T19-S12-D18</span></td></tr>
+    <tr><td>150</td><td><span class="orange">T20-T10-D10</span></td><td><span class="blue">T20-T10-DB</span></td><td><span class="green">T20-S10-D20</span></td></tr>
+    <tr><td>151</td><td><span class="orange">T20-T11-D9</span></td><td><span class="blue">T20-T11-DB</span></td><td><span class="green">T19-S14-D20</span></td></tr>
+    <tr><td>152</td><td><span class="orange">T20-T12-D8</span></td><td><span class="blue">T20-T12-DB</span></td><td><span class="green">T20-S12-D20</span></td></tr>
+    <tr><td>153</td><td><span class="orange">T20-T13-D7</span></td><td><span class="blue">T20-T13-DB</span></td><td><span class="green">T19-S16-D20</span></td></tr>
+    <tr><td>154</td><td><span class="orange">T20-T14-D6</span></td><td><span class="blue">T20-T14-DB</span></td><td><span class="green">T18-S18-D16</span></td></tr>
+    <tr><td>155</td><td><span class="orange">T20-T15-D5</span></td><td><span class="blue">T20-T15-DB</span></td><td><span class="green">T15-S20-D20</span></td></tr>
+    <tr><td>156</td><td><span class="orange">T20-T16-D4</span></td><td><span class="blue">T20-T16-DB</span></td><td><span class="green">T20-S16-D20</span></td></tr>
+    <tr><td>157</td><td><span class="orange">T20-T17-D3</span></td><td><span class="blue">T19-T18-DB</span></td><td><span class="green">T19-S20-D18</span></td></tr>
+    <tr><td>158</td><td><span class="orange">T20-T18-D2</span></td><td><span class="blue">T20-T18-DB</span></td><td><span class="green">T18-S20-D20</span></td></tr>
+    <tr><td>159</td><td><span class="orange">T20-T19-D1</span></td><td><span class="blue">T19-T14-DB</span></td><td><span class="green">T19-S20-D20</span></td></tr>
+    <tr><td>160</td><td><span class="orange">T20-T20-D0</span></td><td><span class="blue">T20-T20-DB</span></td><td><span class="green">T20-S20-D20</span></td></tr>
+    <tr><td>161</td><td><span class="red">X</span></td><td><span class="red">X</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>162</td><td><span class="orange">T20-T14-D0</span></td><td><span class="blue">T20-T14-DB</span></td><td><span class="green">T18-T16-DB</span></td></tr>
+    <tr><td>163</td><td><span class="red">X</span></td><td><span class="red">X</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>164</td><td><span class="orange">T20-T16-D0</span></td><td><span class="blue">T20-T16-DB</span></td><td><span class="green">T20-T12-DB</span></td></tr>
+    <tr><td>165</td><td><span class="red">X</span></td><td><span class="red">X</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>166</td><td><span class="orange">T20-T18-D0</span></td><td><span class="blue">T20-T18-DB</span></td><td><span class="green">T18-T14-DB</span></td></tr>
+    <tr><td>167</td><td><span class="red">X</span></td><td><span class="red">X</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>168</td><td><span class="orange">T20-T20-D0</span></td><td><span class="blue">T20-T20-DB</span></td><td><span class="green">T18-T16-DB</span></td></tr>
+    <tr><td>169</td><td><span class="red">X</span></td><td><span class="red">X</span></td><td><span class="red">X</span></td></tr>
+    <tr><td>170</td><td><span class="orange">T20-T20-DB</span></td><td><span class="blue">T20-T18-DB</span></td><td><span class="green">T18-T18-DB</span></td></tr>
+  </tbody>
+</table>
+
+<p><strong>Key:</strong></p>
+<p><span class="green">T20-D20</span>: Best Shot</p>
+<p><span class="blue">T20-D20</span>: Alternative</p>
+<p><span class="orange">T20-D20</span>: Safety Shot</p>
+<p><span class="red">T20-D20</span>: Avoid</p>
+<p>X: Impossible</p>
+
+</body>
+</html>
